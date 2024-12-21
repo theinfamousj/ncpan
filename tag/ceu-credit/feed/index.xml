@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>ceu credit &#8211; North Carolina Professional Association of Nannies</title>
+	<atom:link href="https://theinfamousj.github.io/ncpan/tag/ceu-credit/feed" rel="self" type="application/rss+xml" />
+	<link>https://theinfamousj.github.io/ncpan/</link>
+	<description>Better nannying for North Carolina starts here!</description>
+	<lastBuildDate>Wed, 20 Mar 2024 14:29:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://theinfamousj.github.io/ncpan/wp-content/uploads/cropped-8fc99da8df4a6655108c4061806d6fe69dea0524_l-32x32.jpg</url>
+	<title>ceu credit &#8211; North Carolina Professional Association of Nannies</title>
+	<link>https://theinfamousj.github.io/ncpan/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">86020397</site>	<item>
+		<title>(triangle) Explore More: Playwork **NCEE criteria II credit**</title>
+		<link>https://theinfamousj.github.io/ncpan/professional-development/49233</link>
+					<comments>https://theinfamousj.github.io/ncpan/professional-development/49233#respond</comments>
+		
+		<dc:creator><![CDATA[Jennifer Levenbook]]></dc:creator>
+		<pubDate>Thu, 07 Jun 2018 22:02:41 +0000</pubDate>
+				<category><![CDATA[Professional Development]]></category>
+		<category><![CDATA[ceu credit]]></category>
+		<category><![CDATA[Triangle]]></category>
+		<guid isPermaLink="false">https://theinfamousj.github.io/ncpan/?p=49233</guid>
+
+					<description><![CDATA[This opportunity provided by the Chapel Hill Public Library. Explore More at Pritchard Park is an interdepartmental collaboration to activate Pritchard Park through spaces, services, and programs related to environmental education and STEAM learning. It will include a new outdoor natural play area, a collection of nature backpacks for kids and families, a series of [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>This opportunity provided by the <a href="https://chapelhillpubliclibrary.org/">Chapel Hill Public Library</a>.</p>
+<p>Explore More at Pritchard Park is an interdepartmental collaboration to activate Pritchard Park through spaces, services, and programs related to environmental education and STEAM learning. It will include a new outdoor natural play area, a collection of nature backpacks for kids and families, a series of environmental programs, and a selection of tools, equipment, and resources for citizen science. Citizen Science is the collaboration between the scientific community and the general public, who collect and share data about the natural world.</p>
+<h1>Playwork</h1>
+<p>June 9, 2018<br />
+1:00 pm &#8211; 4:00 pm<br />
+&#8211; This 3 hour workshop examines ways children, young people and families engage in and benefit from outdoor play and how we can take advantage of the many affordances provided by the outdoors. Using approaches employed in the playwork profession, participants will explore open-ended creative ways to encourage and expand opportunities for exploration, discovery and play in nature.</p>
+<p>The workshop includes lots of hands on activities. Expect to have fun inside and out.</p>
+<p>Linda Kinney, Education Specialist and Manager of Playful Pedagogy North Carolina Zoological Park, will lead the workshop.</p>
+<p>This program will count for <strong>NCEE criteria II credit</strong> for those seeking hours.<br />
+We frequently take photos and videos at our events.</p>
+<p>Questions? Comments? Concerns?</p>
+<p>919.968.2777<br />
+library@townofchapelhill.org<br />
+Twitter: @chpublib<br />
+Facebook: /chapelhillpubliclibrary</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://theinfamousj.github.io/ncpan/professional-development/49233/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">49233</post-id>	</item>
+	</channel>
+</rss>

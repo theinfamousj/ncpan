@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Nicole Balak &#8211; North Carolina Professional Association of Nannies</title>
+	<atom:link href="https://theinfamousj.github.io/ncpan/author/nicolebalak/feed" rel="self" type="application/rss+xml" />
+	<link>https://theinfamousj.github.io/ncpan/</link>
+	<description>Better nannying for North Carolina starts here!</description>
+	<lastBuildDate>Thu, 02 Apr 2020 19:28:37 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://theinfamousj.github.io/ncpan/wp-content/uploads/cropped-8fc99da8df4a6655108c4061806d6fe69dea0524_l-32x32.jpg</url>
+	<title>Nicole Balak &#8211; North Carolina Professional Association of Nannies</title>
+	<link>https://theinfamousj.github.io/ncpan/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">86020397</site>	<item>
+		<title>FREE Parenting with Love and Logic</title>
+		<link>https://theinfamousj.github.io/ncpan/professional-development/50512</link>
+					<comments>https://theinfamousj.github.io/ncpan/professional-development/50512#comments</comments>
+		
+		<dc:creator><![CDATA[Nicole Balak]]></dc:creator>
+		<pubDate>Thu, 02 Apr 2020 17:21:45 +0000</pubDate>
+				<category><![CDATA[Professional Development]]></category>
+		<category><![CDATA[2019 Novel Coronavirus]]></category>
+		<guid isPermaLink="false">https://theinfamousj.github.io/ncpan/?p=50512</guid>
+
+					<description><![CDATA[Limited time! Thanks to SARS-2/COVID-19, children are more stressed than ever, so the Love and Logic Institute is giving away their online course entitled &#8220;Parenting with Love and Logic&#8221;. One simply has to click over to Love and Logic: Parenting, Online and &#8220;buy&#8221; this free product. Then create an account and you&#8217;ll have access to [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Limited time!</p>
+
+
+
+<p>Thanks to SARS-2/COVID-19, children are more stressed than ever, so the Love and Logic Institute is giving away their online course entitled &#8220;Parenting with Love and Logic&#8221;.</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=iHYNQujiUS0&#038;feature=youtu.be&#038;fbclid=IwAR3BlcvwlIXn0wk1eHbCENHH536hx24IJIBBp0Awf25wp9lXKijn8pTSONI
+</div><figcaption>Love and Logic Institute explaining the free course give away.</figcaption></figure>
+
+
+
+<p>One simply has to click over to <a href="https://www.loveandlogic.com/collections/spr20/products/love-and-logic-parenting-online">Love and Logic: Parenting, Online</a> and &#8220;buy&#8221; this free product. Then create an account and you&#8217;ll have access to all of the information and resources.</p>
+
+
+
+<p><a href="https://www.facebook.com/groups/RANG.NC/permalink/1646720545452256/">NC PAN members Jennifer L and Nicole B both think that Love and Logic works really well for older late-tween-to-teen aged children.</a> So if you have suddenly found yourself working with such charges due to school being out, take advantage of this great, free, course.</p>
+
+
+
+<p>Hat tip <a href="http://Nicolebalak.wordpress.com/">Nicole the Doula</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://theinfamousj.github.io/ncpan/professional-development/50512/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">50512</post-id>	</item>
+	</channel>
+</rss>

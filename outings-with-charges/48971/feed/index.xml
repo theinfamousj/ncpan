@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Pumpkin Picking (2016)	</title>
+	<atom:link href="https://theinfamousj.github.io/ncpan/outings-with-charges/48971/feed" rel="self" type="application/rss+xml" />
+	<link>https://theinfamousj.github.io/ncpan/outings-with-charges/48971</link>
+	<description>Better nannying for North Carolina starts here!</description>
+	<lastBuildDate>Wed, 05 Oct 2022 16:13:49 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>
+		By: Pumpkin Picking (2017) &#8211; North Carolina Professional Association of Nannies		</title>
+		<link>https://theinfamousj.github.io/ncpan/outings-with-charges/48971#comment-105</link>
+
+		<dc:creator><![CDATA[Pumpkin Picking (2017) &#8211; North Carolina Professional Association of Nannies]]></dc:creator>
+		<pubDate>Tue, 03 Oct 2017 21:12:55 +0000</pubDate>
+		<guid isPermaLink="false">https://theinfamousj.github.io/ncpan/?p=48971#comment-105</guid>
+
+					<description><![CDATA[[&#8230;] join us again to pick pumpkins, learn about farming, and (most importantly) play in a giant dried corn pit! [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] join us again to pick pumpkins, learn about farming, and (most importantly) play in a giant dried corn pit! [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

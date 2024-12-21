@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Explaining HB6201	</title>
+	<atom:link href="https://theinfamousj.github.io/ncpan/uncategorized/50421/feed" rel="self" type="application/rss+xml" />
+	<link>https://theinfamousj.github.io/ncpan/uncategorized/50421</link>
+	<description>Better nannying for North Carolina starts here!</description>
+	<lastBuildDate>Tue, 31 Mar 2020 15:36:19 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>
+		By: Lyndie		</title>
+		<link>https://theinfamousj.github.io/ncpan/uncategorized/50421#comment-2358</link>
+
+		<dc:creator><![CDATA[Lyndie]]></dc:creator>
+		<pubDate>Tue, 31 Mar 2020 15:36:19 +0000</pubDate>
+		<guid isPermaLink="false">https://theinfamousj.github.io/ncpan/?p=50421#comment-2358</guid>
+
+					<description><![CDATA[Very helpful, thank you!]]></description>
+			<content:encoded><![CDATA[<p>Very helpful, thank you!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
